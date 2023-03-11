@@ -1026,7 +1026,7 @@
     (property "Datasheet" "~" (at 143.51 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "603-AC0805KR9BB104" (at 143.51 60.96 0)
+    (property "Mouser" "581-06035C104KAT2A" (at 143.51 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4118ca42-cbf5-4007-8f00-3c853caebfae))
