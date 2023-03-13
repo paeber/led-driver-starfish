@@ -56,7 +56,40 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|126779997|94400001|a3e11e06-ae1e-400f-aacc-4101fd209e8a|3936c51e-37f0-4690-b372-98045152715d",
+        "clearance|126779997|94400001|c86d26aa-2a0b-42d7-9a07-f18c9021d969|a3e11e06-ae1e-400f-aacc-4101fd209e8a",
+        "clearance|126779997|94400001|f538e993-6f0b-4131-94cd-32b8213f4db5|a3e11e06-ae1e-400f-aacc-4101fd209e8a",
+        "clearance|126779997|95100001|eab87175-f987-4f91-8a3c-8c8f9764d8b4|3936c51e-37f0-4690-b372-98045152715d",
+        "clearance|126779997|95600001|7283a193-036d-4957-b428-43d716475e0d|eab87175-f987-4f91-8a3c-8c8f9764d8b4",
+        "clearance|126779997|95900001|7283a193-036d-4957-b428-43d716475e0d|97330683-2df1-4dd9-868b-7f42bd958926",
+        "clearance|126779997|96600001|d937c971-9593-437c-b454-e8711d27dd14|97330683-2df1-4dd9-868b-7f42bd958926",
+        "clearance|127504997|96750001|b62dac6c-1072-41cf-b0bb-92e869639c6f|989666b0-0f01-4930-b449-0bdcd37cfce9",
+        "clearance|128229997|94400001|c73bcaf9-6b83-4fb0-b420-09928c5ce5ed|a3e11e06-ae1e-400f-aacc-4101fd209e8a",
+        "clearance|128229997|96600001|989666b0-0f01-4930-b449-0bdcd37cfce9|d937c971-9593-437c-b454-e8711d27dd14",
+        "clearance|128549997|96250001|6c2e0461-d0f2-4f8c-a405-006ca484b65d|b62dac6c-1072-41cf-b0bb-92e869639c6f",
+        "clearance|132922842|86077158|9330f6ad-aa14-46cd-870c-03276e9c55a8|07f60b1c-b4a8-4785-93e9-cb3c86351fb6",
+        "clearance|132999997|86565689|d5cd02f9-d863-4dd6-a548-2b2109b42262|9330f6ad-aa14-46cd-870c-03276e9c55a8",
+        "clearance|133205685|86360001|5cae0726-fad4-4d5b-a409-f1f3ac927045|9330f6ad-aa14-46cd-870c-03276e9c55a8",
+        "clearance|135499997|87590001|ccc2a869-0c2c-4eef-b37f-ac9436f91a3f|0e566ffb-3327-4310-9cdb-0cbb6e2fe1ee",
+        "clearance|136999997|87220001|a4539407-380c-45ed-aa80-1544ad429046|0e566ffb-3327-4310-9cdb-0cbb6e2fe1ee",
+        "courtyards_overlap|127199499|70184001|5e2eb2ef-7bc5-4781-8099-5d6c03bd2975|99d1ba27-65ee-4a2e-af39-7cc8840c2c8c",
+        "courtyards_overlap|129200001|70650001|419b7d69-4071-4e14-8af3-d1c0643519aa|99d1ba27-65ee-4a2e-af39-7cc8840c2c8c",
+        "courtyards_overlap|129200001|78250001|5806affc-494c-42ae-bbad-6df0b787fa3b|99d1ba27-65ee-4a2e-af39-7cc8840c2c8c",
+        "courtyards_overlap|131250001|63350001|6e12fa49-a7ed-42fa-9cd2-4cb17ea039e4|ea792cf7-3721-4dd4-8918-e230fa286e11",
+        "courtyards_overlap|133750001|63350001|6e12fa49-a7ed-42fa-9cd2-4cb17ea039e4|c3592f1e-e7c7-48bb-96b5-2c2ce17b93a5",
+        "courtyards_overlap|138466940|63792991|058fedcc-704d-4293-8197-34a17ef8dc07|6e12fa49-a7ed-42fa-9cd2-4cb17ea039e4",
+        "courtyards_overlap|152200001|69350002|4cb674e3-7fd0-4bdf-83d4-7b2424e2e5c0|bcebfb89-22bd-404c-a55b-20f8697dc1d6",
+        "courtyards_overlap|152581999|74399999|4ab287b0-f7e5-4d54-ac56-3885f4c05418|bcebfb89-22bd-404c-a55b-20f8697dc1d6",
+        "courtyards_overlap|155000001|63200001|012d1094-a060-4db8-9679-3c8efd178924|bcebfb89-22bd-404c-a55b-20f8697dc1d6",
+        "courtyards_overlap|162500001|60100001|012d1094-a060-4db8-9679-3c8efd178924|330c4f49-a62e-46b6-b7e2-b7643cf5e9ce",
+        "courtyards_overlap|170200001|68925001|330c4f49-a62e-46b6-b7e2-b7643cf5e9ce|5a947e33-3b35-430e-b539-5e3246584151",
+        "silk_edge_clearance|119999997|68780000|3484618b-e01f-409d-8b28-0c066ea974de|ae1a0413-8e3d-4383-aec5-7d0fe0e7fd19",
+        "silk_edge_clearance|119999997|70584000|3484618b-e01f-409d-8b28-0c066ea974de|80c6c4df-54f1-42e8-bf3e-1d138a1d5a94",
+        "silk_edge_clearance|119999997|79784000|3484618b-e01f-409d-8b28-0c066ea974de|5f7eb0d9-db1c-4dc0-851f-5aded26a9620",
+        "silk_edge_clearance|119999997|80540000|3484618b-e01f-409d-8b28-0c066ea974de|ef1b7e37-a09c-48f8-b2c4-119b825ae595",
+        "silk_edge_clearance|179999997|68660000|64768129-c46a-4890-86fc-237587986a78|a6c0fe0a-6ef2-4ef7-9a78-a172d86b328e"
+      ],
       "meta": {
         "version": 2
       },
@@ -438,7 +471,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.4,
+        "clearance": 0.5,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -459,7 +492,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "USB",
+        "pattern": "*USB*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
